@@ -1,0 +1,306 @@
+.parent {
+    display: flex;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.child3 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+}
+.parent2 {
+    display: flex;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+    flex-direction: row-reverse;
+}
+.parent3 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent4 {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent7 {
+    display: flex;
+    flex-direction: row-reverse; 
+    justify-content: flex-start;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent8 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent9 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end; 
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent10 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent11 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent12 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent13 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent14 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start; 
+    align-items: flex-end; 
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent15 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent16 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent17 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent18 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent19 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent20 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent21 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent22 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent23 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent24 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent25 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent26 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent27 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent28 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent29 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent30 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent31 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent32 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent33 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.parent34 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.elem {
+    align-self: flex-end;
+}
+.elem2 {
+    align-self: center;
+}
+.elem3 {
+    align-self: center;
+}

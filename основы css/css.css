@@ -1,0 +1,140 @@
+p{
+    width: 300px;
+}
+p {
+    color: orange;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color:rgb(255,236, 113)  ;
+
+}
+h3 {
+    color: #ffaa00;
+}
+td {
+    width: 400px;
+    height: 300px;
+}
+h1 {
+    text-align:right;
+
+}
+h2 {
+    text-align:center;
+}
+td {
+    width: 500px;
+}
+th{
+    text-align: left;
+}
+p{
+    text-align: justify;
+}
+h2{
+    width: 300px;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+td {
+    width: 500px;
+    height: 300px;
+}
+td {
+    font-weight: bold;
+}
+th {
+
+    font-weight: normal;
+}
+h2 {
+    font-style: italic;
+}
+p {
+    font-family: Arial;
+}
+p {
+    font-family: Georgia;
+
+}
+p {
+    font-family: Verdana;
+}
+p {
+    font-family: 'Trebuchet MS';
+
+}
+p {
+    font-family: Impact;
+
+}
+p {
+    font-family: Arial Black;
+}
+p {
+    font-family: 'Comic Sans MS';
+}
+p {
+    font-family: 'Courier New';
+}
+p {
+    font-size: 20px;
+    line-height: 35px;
+}
+p {
+    font-size: 30px;
+    line-height: 1.5;
+
+}
+p {
+    font: 13px\20px "Times New Roman";
+}
+p {
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    text-indent: 50px;
+    font-style: italic;
+    line-height: 60px;
+}
+p {
+    font: bold italic 16px/50px Arial;
+}
+p {
+    width: 300px;
+font: bold red 40px Arial;
+}
+p {
+    font: bold italic 40px/60px 50px Arial;
+}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    width: 400px;
+}
+p {
+    text-decoration: underline;
+}
+p {
+    color:red;
+    text-decoration: overline;
+}
+p {
+    color: green;
+    text-decoration: line-through;
+}
+a{
+    color: red;
+}
+h1{
+    color: blue;
+}
+h2{color:green;}
+i{
+    color:green;
+}

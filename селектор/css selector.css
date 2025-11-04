@@ -1,0 +1,152 @@
+h1, h2, h3 {
+    text-align: center;
+}
+h3 {
+    font-size: 16px;
+    color: red;
+}
+h2 {
+    color: blue;
+}
+h1, h2, h3 {
+    text-align: center;
+    color: red;
+}
+h3 {
+    font-size: 16px;
+}
+ul li i {
+    color: red;
+}
+p i {
+    color: green;
+}
+p b {
+    color: red;
+}
+ul li b {
+    color: red;
+}
+.odd{
+    color: red;
+}
+.eve{
+    color:green;
+}
+.eee {
+    color: red;
+}
+.xxx{
+    font-size: 30px;
+}
+.block1 {
+    color: red;
+}
+
+.block2 {
+    color: green;
+}
+.block3 {
+    color: blue;
+}
+.block4 {
+    color: red;
+}
+.block5 {
+    color: green;
+}
+.eee, .zzz {
+    line-height: 1.5;
+    font-family: Arial;
+}
+.eee {
+    font-size: 20px;
+
+}
+
+.zzz {
+    font-size: 30px;
+}
+.eee, .zzz, .ggg {
+    text-align: center;
+    font-family: Arial;
+}
+.eee {
+    font-size: 20px;
+}
+
+.zzz {
+    font-size: 30px;
+}
+
+.ggg {
+    font-size: 35px;
+}
+h2.header, h3.header {
+    color: red;
+}
+h3.header {
+    font-size: 30px;
+}
+h2.header {
+    font-size: 40px;
+}
+i.eee {
+   color: red;
+}
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
+.large {
+    font-size: 30px;
+}
+
+.small {
+    font-size: 20px;
+}
+.arial {
+    font-family: Arial;
+}
+
+.redcol {
+    color: red;
+}
+
+.size {
+    font-size: 30px;
+}
+#elem1 {
+    color: red;
+}
+#elem2 {
+    color: green;
+}
+#elem3 {
+    color: blue;
+}
+#block {
+    color: red;
+    font-family: Arial;
+}
+
+.text {
+    font-size: 30px;
+}
+#elem h2 {
+    font-size: 30px;
+}
+#elem .text{
+    color:red;
+}
+#elem .text p {
+    color: red;
+}
+    #elem .text li {
+        color: red;
+    }
+

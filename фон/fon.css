@@ -1,0 +1,152 @@
+#elem1{
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+}
+#elem2 {
+    width: 300px;
+    height: 200px;
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+#elem3{
+    width: 300px;
+    height: 200px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+#elem4 {
+    width: 300px;
+    height: 200px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: red;
+}
+#elem5 {
+    width: 300px;
+    height: 200px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: yellow;
+}
+#elem6 {
+    width: 300px;
+    height: 200px;
+    border-width: 5px;
+    border-style: double;
+    border-color: blue;
+}
+#elem7 {
+    width: 300px;
+    height: 200px;
+border: 5px solid red;
+}
+#elem8 {
+    width: 300px;
+    height: 200px;
+    border: 5px dotted blue;
+}
+#elem9 {
+    width: 300px;
+    height: 200px;
+    border: 5px dashed green;
+}
+#elem10 {
+    width: 300px;
+    height: 200px;
+    border: 5px double yellow;
+}
+#lem {
+    width: 300px;
+    height: 100px;
+    border-left: 5px solid yellow;
+    border-right: 5px solid green;
+    border-bottom: 5px solid red;
+    border-top: 5px solid blue;
+}
+#lem1 {
+    width: 300px;
+    height: 100px;
+    border-left: 5px solid red;
+    border-right: 5px dotted green;
+    border-bottom: 5px solid blue;
+    border-top: 5px solid blue;
+}
+#lem2 {
+    width: 300px;
+    height: 300px;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+#lem3 {
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: green;
+}
+#lem4 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 1px solid green;
+}
+#lem5 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 10px 20px 40px 40px;
+}
+#lem6 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 5px 20px;
+}
+#lem7 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 5px 10px 15px;
+}
+#lem8 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 50%;
+}
+body {
+    background-image: url(bg.png);
+    background-repeat:repeat-y;
+}
+/*
+    body {
+    background-image: url(bg.png);
+    background-repeat:repeat-x;
+}
+*/
+ul {
+    list-style-type: square;
+}
+ul {
+    list-style-type: circle;
+}
+ul {
+    list-style-type: disc;
+}
+ul {
+    list-style-type: none;
+}
+ol {
+    list-style-type: lower-alpha;
+}
+ol {
+    list-style-type: upper-alpha;
+}
+ol {
+    list-style-type: lower-greek;
+}
+ol {
+    list-style-type: decimal-leading-zero;
+}
